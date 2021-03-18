@@ -31,10 +31,4 @@ class Transfer
     receiver.balance -= amount
   end
 
-
-
-  end
-
-
-
 end
